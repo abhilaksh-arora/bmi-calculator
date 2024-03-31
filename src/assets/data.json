@@ -1,22 +1,22 @@
 {
   "underweight": {
-    "dietPlan": "High-calorie diet with protein-rich foods., High-calorie diet with protein-rich foods., High-calorie diet with protein-rich foods., High-calorie diet with protein-rich foods.",
-    "gymRecommendation": "Focus on strength training to build muscle mass."
+    "gymRecommendation": "Do More Compund Movements Like Deadlifts + Squats + Bench Press, Less Cardio about 5-10 mins before workout, Do not exceed workoiut more than 1 hour, Keep Rep Range between 8-12, 8-9 Hours of sleep for better recovery",
+    "dietPlan": "BREAKFAST - 2 Bananas + Almonds + Milk + 1 Tsp Peanut Butter OR Moong Dal Chilla with Paneer Stuffing + Banana Shake, LUNCH - Routine Lunch + Salad + Curd + 2 Boiled Eggs OR Chicken Rice + Mix Vegetables, SNACKS - Mix Fruits + Dry Fruits OR Whey Protein, DINNER - Routine Dinner + 200g Paneer OR Chicken Rice + Mix Vegetable"
   },
   "healthy": {
-    "dietPlan": "Balanced diet with plenty of fruits and vegetables.",
-    "gymRecommendation": "Combine cardio and strength exercises for overall fitness."
+    "gymRecommendation": "Focus on both Hypertrophy and Compound Movements, Do 30 mins of Cardio before workout, Keep workout session between 1-2 hours, Keep Rep Range between 10-15, 8-9 Hours of sleep for better recovery",
+    "dietPlan": "BREAKFAST - Fruit Bowl + Dry Fruits OR Banana Shake + Dry Fruits, LUNCH - Routine Lunch + Curd + Salad OR Chicken Rice + Salad, SNACKS - Peanut Butter Sandwich, Dinner - Routine Dinner + 200g Paneer + Low Fat Milk"
   },
   "overweight": {
-    "dietPlan": "Calorie deficit diet with portion control.",
-    "gymRecommendation": "Emphasize cardio workouts to burn fat."
+    "gymRecommendation": "Focus on Hypertrophy and Isolation Movements, Do 30-35 mins of Cardio after Workout, Keep workout session between 1-2 hours, Keep Rep Range between 12-18, 8-9 Hours of sleep for better recovery",
+    "dietPlan": "BREAKFAST - Veggie Sandwich + Boiled Eggs OR Green Tea + Brown Bread Egg Sandwich, LUNCH - 2 Chapatri + Matar Paneer OR Steamed Rice + Boiled Chicken, SNACKS - Tomato Soup + Almonds OR Fruit Bowl + Almonds, DINNER - 1 Chapati + Dal + Low Fat Milk OR Chicken Rice"
   },
   "obese": {
-    "dietPlan": "Low-calorie diet with supervised meal planning.",
-    "gymRecommendation": "Incorporate high-intensity interval training (HIIT) for fat loss."
+    "gymRecommendation": "Focus on Hypertrophy and Isolation Movements, Do 30-35 mins of Cardio after Workout, Keep workout session between 1-2 hours, Keep Rep Range between 12-18, 8-9 Hours of sleep for better recovery",
+    "dietPlan": "BREAKFAST - Veggie Sandwich + Boiled Eggs OR Green Tea + Brown Bread Egg Sandwich, LUNCH - 2 Chapatri + Matar Paneer OR Steamed Rice + Boiled Chicken, SNACKS - Tomato Soup + Almonds OR Fruit Bowl + Almonds, DINNER - 1 Chapati + Dal + Low Fat Milk OR Chicken Rice"
   },
   "extremelyObese": {
-    "dietPlan": "Very low-calorie diet under medical supervision.",
-    "gymRecommendation": "Consult with a fitness expert for personalized workout plan."
+    "gymRecommendation": "Focus on Hypertrophy and Isolation Movements, Do 30-35 mins of Cardio after Workout, Keep workout session between 1-2 hours, Keep Rep Range between 12-18, 8-9 Hours of sleep for better recovery",
+    "dietPlan": "BREAKFAST - Veggie Sandwich + Boiled Eggs OR Green Tea + Brown Bread Egg Sandwich, LUNCH - 2 Chapatri + Matar Paneer OR Steamed Rice + Boiled Chicken, SNACKS - Tomato Soup + Almonds OR Fruit Bowl + Almonds, DINNER - 1 Chapati + Dal + Low Fat Milk OR Chicken Rice"
   }
 }
