@@ -1,0 +1,22 @@
+{
+  "underweight": {
+    "dietPlan": "High-calorie diet with protein-rich foods., High-calorie diet with protein-rich foods., High-calorie diet with protein-rich foods., High-calorie diet with protein-rich foods.",
+    "gymRecommendation": "Focus on strength training to build muscle mass."
+  },
+  "healthy": {
+    "dietPlan": "Balanced diet with plenty of fruits and vegetables.",
+    "gymRecommendation": "Combine cardio and strength exercises for overall fitness."
+  },
+  "overweight": {
+    "dietPlan": "Calorie deficit diet with portion control.",
+    "gymRecommendation": "Emphasize cardio workouts to burn fat."
+  },
+  "obese": {
+    "dietPlan": "Low-calorie diet with supervised meal planning.",
+    "gymRecommendation": "Incorporate high-intensity interval training (HIIT) for fat loss."
+  },
+  "extremelyObese": {
+    "dietPlan": "Very low-calorie diet under medical supervision.",
+    "gymRecommendation": "Consult with a fitness expert for personalized workout plan."
+  }
+}
